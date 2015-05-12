@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/searchItem"
+        android:showAsAction="always"
+        android:title="搜索"/>
+    <item
+        android:id="@+id/analogClockItem"
+        android:showAsAction="always"
+        android:title="时钟"/>
+    
+    <item 
+        android:id="@+id/analogClockItem_1"
+        android:showAsAction="always"
+        android:title="发送"/>
+
+</menu>
